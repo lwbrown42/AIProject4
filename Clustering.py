@@ -60,7 +60,7 @@ def kmeans(xArray, yArray, numClusters):
         oldCentroids = centroids
         centroids = newCentroids
             
-        print(newCentroids)
+#        print(newCentroids)
             
     return centroids
         
